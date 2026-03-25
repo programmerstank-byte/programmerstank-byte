@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building things one byte at a time. I enjoy turning ideas into working software and constantly pushing my skills forward through hands-on projects.
+I'm a passionate developer who loves building things one byte at a time. I enjoy turning ideas into working software and constantly pushing my skills forward through hands-on projects and real-world problem solving.
 
 - 🔭 I'm currently building out my portfolio — check out my pinned repositories below
 - 🌱 Always learning — from fundamentals to cutting-edge technologies
@@ -34,25 +34,43 @@ I'm a passionate developer who loves building things one byte at a time. I enjoy
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
+## 🌱 Currently Learning
+
+- ⚙️ Backend architecture and API design patterns
+- 🔐 Security best practices and authentication flows
+- ☁️ Cloud deployment and CI/CD pipelines
+- 🧠 Data structures, algorithms, and system design
+
+---
+
 ## 📂 Featured Projects
 
-Here's a snapshot of what I've been building in my first repositories:
+Here's a snapshot of what I've been building:
 
 ### 🗂️ Repository 1 — programmerstank-byte (Profile)
 > **This repository** — the starting point. A special GitHub profile README that introduces who I am, what I build, and where I'm headed.
@@ -63,12 +81,12 @@ Here's a snapshot of what I've been building in my first repositories:
 
 ---
 
-### 🗂️ Repository 2 — Coming Soon / In Progress
-> My second repository is where the real building begins — stay tuned for more projects as I continue to push code and share my work publicly.
+### 🗂️ More Projects — Coming Soon
+> I'm actively building and will be sharing more repositories soon. Each project is a step forward — real-world applications, tools, and experiments that reflect my growth as a developer.
 
-- 🔧 Currently in development
-- 📌 Will feature practical software solutions and learning milestones
-- 🚀 Expect real-world applications and well-documented code
+- 🔧 Projects currently in development
+- 📌 Will feature practical software solutions and documented learning milestones
+- 🚀 Expect clean code, meaningful READMEs, and working demos
 
 ---
 
